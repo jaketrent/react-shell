@@ -1,6 +1,6 @@
 ## What
 
-An example of how to integrate the Pluralsight Design System Foundation styles and Components into a React-based project.
+An minimal, empty app with react, postcss, and webpack already integrated.
 
 ## To Run
 
